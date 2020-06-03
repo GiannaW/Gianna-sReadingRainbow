@@ -1,0 +1,47 @@
+h1{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+
+#holdbigwords{
+    background-color: beige;
+}
+
+/*
+navbar li{
+    display: inline-block;
+    text-align: center;
+}
+
+navbar{
+
+    border:1px solid #ccc;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+*/
+
+.nav{
+    border:1px solid #ccc;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+.nav li{
+    display:inline;
+}
+.nav a{
+    display:inline-block;
+    padding:10px;
+}
+
+
+
+p{
+    font-family: 'Source Serif Pro', serif;
+}
